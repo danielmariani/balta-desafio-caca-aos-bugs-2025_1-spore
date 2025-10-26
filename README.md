@@ -29,4 +29,4 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 Banco de Dados.
 
 ### Veja meu progresso no desafio
-[Incluir link para o repositório central]
+[Repositório Central](https://github.com/danielmariani/balta-desafio-caca-aos-bugs-2025)
